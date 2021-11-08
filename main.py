@@ -1,5 +1,4 @@
 from fastapi import FastAPI
-#from pyowm.owm import OWM
 import pyowm
 import os
 
